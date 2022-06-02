@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🔥 I find development close to hardware very exciting: mobile apps for IoT devices, sensors, embedded stuff
 - 🌱 I’m currently learning ML.NET
-- 💞️ I’m looking to collaborate on xamarin/MAUI mobile development focused around IoT devices. 
+- 💞️ I’m always interested in collaborating on xamarin/MAUI mobile development focused around IoT devices. 
 - 📫 How to reach me umermahmood889@gmail.com
 
 <!---
